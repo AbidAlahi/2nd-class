@@ -1,0 +1,53 @@
+body {
+	background: url(../img/bi.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+.conteiner {
+	    width: 410px;
+   margin: 14% 39%;
+}
+.login-section {
+    background-color: #fff2de;
+    padding: 12%;
+                
+}
+.login-section h3 {
+	font-family: 'Chilanka', cursive;
+	text-align: center;
+	color: #1a75ff;
+	font-size: 30px;
+
+}
+ 
+.login-section img {
+	margin: 0px auto;
+	display: block;
+	
+}
+.form-control {
+	width:90%;
+	height: 25px;
+	padding: 5px;
+	margin-bottom: 5px;
+}
+.btn {
+	margin: 0px auto;
+	display: block;
+	background: silver;
+	padding: 6px 12px;
+	opacity: 0.9;
+	color: black;
+	text-transform: uppercase;
+	transition: 0.8s ease;
+}
+.btn:hover {
+	box-shadow:5px 2px 5px black;
+	cursor: pointer;
+
+}
+.a {
+	background-color: black;
+}
